@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="1">
+  <advance width="735"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="17" y="280" type="line"/>
+      <point x="437" y="280" type="line"/>
+      <point x="437" y="560" type="line"/>
+      <point x="192" y="560" type="line"/>
+      <point x="192" y="595" type="line"/>
+      <point x="437" y="595" type="line"/>
+      <point x="437" y="700" type="line"/>
+      <point x="17" y="700" type="line"/>
+      <point x="17" y="420" type="line"/>
+      <point x="262" y="420" type="line"/>
+      <point x="262" y="385" type="line"/>
+      <point x="17" y="385" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="0" type="line"/>
+      <point x="717" y="0" type="line"/>
+      <point x="717" y="280" type="line"/>
+      <point x="472" y="280" type="line"/>
+      <point x="472" y="315" type="line"/>
+      <point x="717" y="315" type="line"/>
+      <point x="717" y="420" type="line"/>
+      <point x="297" y="420" type="line"/>
+      <point x="297" y="140" type="line"/>
+      <point x="542" y="140" type="line"/>
+      <point x="542" y="105" type="line"/>
+      <point x="297" y="105" type="line"/>
+    </contour>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="262" y="245" type="line"/>
+      <point x="17" y="245" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="455" type="line"/>
+      <point x="717" y="455" type="line"/>
+      <point x="717" y="700" type="line"/>
+      <point x="472" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>
